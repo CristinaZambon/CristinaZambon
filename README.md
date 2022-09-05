@@ -1,5 +1,6 @@
-- 👋 Ciao, I’m @CristinaZambon
+- 😋 Ciao, I’m @CristinaZambon and I'm a newbie here 
 - 👀 I’m interested in OOP and Java
+- 📝 I'm still moving all my projects here
 - 📫 How to reach me cristina.zambon2@libero.it
 
 <!---
