@@ -1,6 +1,6 @@
 - 😋 Ciao, I’m @CristinaZambon and I'm a newbie here 
 - 👀 I’m interested in OOP
-- 📝 I studied Computer Engineering at Politcnico di Torino, in Italy. I did an amazing challenging exchange at Mississippi State University.
+- 📝 I studied Computer Engineering at Politcnico di Torino, in Italy. I did an amazing challenging exchange at Mississippi State University. Below, some of the projects I completed. 
  
 <!---
 CristinaZambon/CristinaZambon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
