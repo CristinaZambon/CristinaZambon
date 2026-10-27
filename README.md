@@ -1,2 +1,1 @@
--  Ciao, I’m @CristinaZambon and I'm a newbie here 
-- 👀 I’m interested in OOP, geospatial data processing and social science :)
+-  Ciao, I’m @CristinaZambon and I’m interested in OOP, geospatial data processing and social science :)
